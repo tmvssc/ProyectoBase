@@ -16,6 +16,12 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
 
+
+
+
+
+
+
         //inicializamos variables de elementos layout
         val edUsername:EditText = findViewById(R.id.ed_username)
         val edPasswd:EditText = findViewById(R.id.ed_password)
